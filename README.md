@@ -19,7 +19,14 @@ Credit Risk Analysis Report
 
 # Credit Risk Analysis Report
 
-Analysis
+1) An overview of the analysis
+
+
+2) The results
+
+
+3) A summary
+
 
 
 # Credits
