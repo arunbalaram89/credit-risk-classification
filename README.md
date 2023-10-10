@@ -46,4 +46,4 @@ Use RandomOverSampler module
 # Credits
 
 Arun Balaram
-Ask BCS - Robert Perron
+Ask BCS 
