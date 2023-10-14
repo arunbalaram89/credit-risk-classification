@@ -20,8 +20,6 @@ Credits/Contribution
 
 
 
-
-
 # Credit Risk Analysis Report
 
 1) Split the Data into Training and Testing Sets
@@ -42,6 +40,10 @@ Predict a Logistic Regression Model with Resampled Training Data
 Use RandomOverSampler module
 
 
+# Installation
+
+Jupyter Notebook - dev environment
+RandomOverSampler, Logistic Regression 
 
 # Credits
 
