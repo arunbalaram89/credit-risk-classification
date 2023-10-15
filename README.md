@@ -35,12 +35,27 @@ the High Risk loan had a score of 87%. This means that the variables used in the
 High Risk loans.
 
 The reason the High Risk loans was not perfect, may be because their could be minor external factors in determining 
-High risk loans, which is very common in this sector. 
+High risk loans, which is very common in this sector. The Data was heavily favoured by Healthy loans, and very few High Risk Loans. 
 
+Model Prediction # 1 
+Description of Model 1 Accuracy, Precision, and Recall scores.
+
+Results for Healthy Loan
+
+Accuracy = 94.4%
+Precision = 100% (1)
+Recall = 100% (1)
+
+Results for High Risk Loan
+Accuracy
+Precision = 87%
+Recall = 89%
+F1-Score = 88%
 
 
 Predict a Logistic Regression Model with Resampled Training Data
 Use RandomOverSampler module. 
+
 
 Even with the Random Over Sampler data, the data was not different. 
 
